@@ -1,0 +1,17 @@
+{
+  "name": "mk-env-vars",
+  "version": "0.0.1",
+  "description": "Reading and validating Environment Variables ",
+  "main": "index.js",
+  "repository": "https://github.com/mkastner/mk-env-vars.git",
+  "author": "John Galt",
+  "license": "Who is John Galt?",
+  "scripts": {
+    "github:master": "git push origin master"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.7.0",
+    "vue-eslint-parser": "^7.0.0"
+  }
+}
