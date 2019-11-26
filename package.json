@@ -1,6 +1,6 @@
 {
   "name": "mk-env-vars",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Reading and validating Environment Variables ",
   "main": "lib/index.js",
   "repository": "https://github.com/mkastner/mk-env-vars.git",
