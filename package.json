@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "repository": "https://github.com/mkastner/mk-env-vars.git",
   "author": "John Galt",
-  "license": "Who is John Galt?",
+  "license": "MIT",
   "scripts": {
     "github:master": "git push origin master",
     "test": "NODE_ENV=test USERS_PASSWORD_TEST=0000 GALT_USERS_PASSWORD_TEST=0000 USERS_NAME_TEST=JohnGalt node ./test/index.js"
@@ -15,10 +15,10 @@
     "mk-log": "https://github.com/mkastner/mk-log.git#v0.0.9"
   },
   "devDependencies": {
-    "mk-log": "https://github.com/mkastner/mk-log.git#v0.0.9",
     "babel-eslint": "^10.0.3",
     "eslint": "^6.7.0",
     "faucet": "^0.0.1",
+    "mk-log": "https://github.com/mkastner/mk-log.git#v0.0.9",
     "tape": "^4.11.0",
     "vue-eslint-parser": "^7.0.0"
   }
