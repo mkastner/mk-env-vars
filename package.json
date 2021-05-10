@@ -1,6 +1,6 @@
 {
   "name": "mk-env-vars",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Reading and validating Environment Variables ",
   "main": "lib/index.js",
   "repository": "https://github.com/mkastner/mk-env-vars.git",
@@ -18,7 +18,7 @@
     "babel-eslint": "^10.0.3",
     "eslint": "^6.7.0",
     "faucet": "^0.0.1",
-    "mk-log": "https://github.com/mkastner/mk-log.git#v0.0.9",
+    "mk-log": "https://github.com/mkastner/mk-log.git#v0.0.12",
     "tape": "^4.11.0",
     "vue-eslint-parser": "^7.0.0"
   }
