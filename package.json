@@ -1,6 +1,6 @@
 {
   "name": "mk-env-vars",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Reading and validating Environment Variables ",
   "main": "lib/index.js",
   "repository": "https://github.com/mkastner/mk-env-vars.git",
@@ -10,12 +10,11 @@
     "github:master": "git push origin master",
     "test": "NODE_ENV=test USERS_PASSWORD_TEST=0000 GALT_USERS_PASSWORD_TEST=0000 USERS_NAME_TEST=JohnGalt node ./test/index.js"
   },
-  "dependencies": {},
   "peerDependencies": {
     "mk-log": "https://github.com/mkastner/mk-log.git#v0.0.9"
   },
   "devDependencies": {
-    "babel-eslint": "^10.0.3",
+    "babel-eslint": "^10.1.0",
     "eslint": "^6.7.0",
     "faucet": "^0.0.1",
     "mk-log": "https://github.com/mkastner/mk-log.git#v0.0.12",
