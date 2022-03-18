@@ -14,11 +14,8 @@
     "mk-log": "https://github.com/mkastner/mk-log.git#v0.0.13"
   },
   "devDependencies": {
-    "babel-eslint": "^10.1.0",
-    "eslint": "^6.7.0",
     "faucet": "^0.0.1",
     "mk-log": "https://github.com/mkastner/mk-log.git#v0.0.13",
-    "tape": "^4.11.0",
-    "vue-eslint-parser": "^7.0.0"
+    "tape": "^4.11.0"
   }
 }
